@@ -5,7 +5,7 @@ Library    Browser    run_on_failure=Take Screenshot \ fintech-failure-sshot-{in
 ${Website_URL}        https://katalon-demo-cura.herokuapp.com/
 ${TESTING_ENV}        integration
 ${BROWSER}            chromium
-${HEADLESS}           False
+${HEADLESS}           True
 ${TIMEOUT}            2min
 ${SCREEN}             {"height": 768,"width": 1366}
 
