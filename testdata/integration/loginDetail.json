@@ -1,0 +1,6 @@
+{
+   "Admin": {
+        "UserName": "John Doe",
+        "Password": "ThisIsNotAPassword"
+    } 
+}
